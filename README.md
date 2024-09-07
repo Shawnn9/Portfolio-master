@@ -61,5 +61,4 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 =======
-# Portfolio-master
->>>>>>> 1d0cdc22a757d3cfde12a4dc5ffb3c6c68a4eb0e
+
